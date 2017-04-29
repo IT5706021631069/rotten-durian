@@ -23,6 +23,7 @@
                   <div class="caption">
                     <h3>Thumbnail label</h3>
                     <p>...</p>
+                    <router-link to="/">Go</router-link>
                     <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
                   </div>
                 </div>
